@@ -97,7 +97,7 @@ $(document).ready(function(){initNavTree('dd/d47/namespacemath.html','../../'); 
 </div><!--header-->
 <div class="contents">
 
-<p>for <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/numeric/random/rand.html">std::rand</a>  
+<p>Mathematical functions.  
 <a href="../../dd/d47/namespacemath.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
@@ -107,6 +107,9 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:af3b18f4a55f707a81de49737a18f8c67"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d47/namespacemath.html#af3b18f4a55f707a81de49737a18f8c67">Kadanes</a> (<a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector</a>&lt; int &gt; &amp;arr)</td></tr>
+<tr class="memdesc:af3b18f4a55f707a81de49737a18f8c67"><td class="mdescLeft">&#160;</td><td class="mdescRight">kadanes algorithm (<a href="https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/">https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/</a>)  <a href="../../dd/d47/namespacemath.html#af3b18f4a55f707a81de49737a18f8c67">More...</a><br /></td></tr>
+<tr class="separator:af3b18f4a55f707a81de49737a18f8c67"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abf7f2a6d91f1ca6c89698792aea3f188"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d47/namespacemath.html#abf7f2a6d91f1ca6c89698792aea3f188">approximate_pi</a> (const <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector</a>&lt; <a class="el" href="../../de/d4f/structmath_1_1_point.html">Point</a> &gt; &amp;pts)</td></tr>
 <tr class="separator:abf7f2a6d91f1ca6c89698792aea3f188"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a971ce57e368f2f631cf1f4ff3f864049"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
@@ -196,7 +199,7 @@ Functions</h2></td></tr>
 <tr class="separator:abde24398be43538c62e4a496968e60ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >for <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/numeric/random/rand.html">std::rand</a> </p>
+<div class="textblock"><p >Mathematical functions. </p>
 <p >for <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_istream.html">std::cin</a> and <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a></p>
 <p >for <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a></p>
 <p >for io operations</p>
@@ -206,6 +209,7 @@ Functions</h2></td></tr>
 <p >for <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector</a></p>
 <p >for IO operations</p>
 <p >for M_PI definition and pow()</p>
+<p >for <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/numeric/random/rand.html">std::rand</a></p>
 <p >for IO operations for <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector</a></p>
 <p >Mathematical algorithms</p>
 <p >for assert for uint16_t datatype for IO operations</p>
@@ -638,6 +642,59 @@ Here is the call graph for this function:</div>
 <div class="line"><span class="lineno">   41</span>    <span class="keywordflow">return</span> result;</div>
 <div class="line"><span class="lineno">   42</span>}</div>
 </div><!-- fragment -->
+</div>
+</div>
+<a id="af3b18f4a55f707a81de49737a18f8c67" name="af3b18f4a55f707a81de49737a18f8c67"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af3b18f4a55f707a81de49737a18f8c67">&#9670;&nbsp;</a></span>Kadanes()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int math::Kadanes </td>
+          <td>(</td>
+          <td class="paramtype"><a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector.html">std::vector</a>&lt; int &gt; &amp;&#160;</td>
+          <td class="paramname"><em>arr</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>kadanes algorithm (<a href="https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/">https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/</a>) </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">original</td><td>vector </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>largest possible subarray sum </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span> </div>
+<div class="line"><span class="lineno">   32</span>  <span class="comment">//  maxTemp is used to find every positive continuous segment </span></div>
+<div class="line"><span class="lineno">   33</span>  <span class="comment">//  maxSum is the maximum subarray sum, which is returned</span></div>
+<div class="line"><span class="lineno">   34</span>    <span class="keywordtype">int</span> maxSum = INT_MIN; </div>
+<div class="line"><span class="lineno">   35</span>    <span class="keywordtype">int</span> maxTemp = 0;</div>
+<div class="line"><span class="lineno">   36</span>    <span class="keywordtype">int</span> s = arr.<a class="code hl_functionRef" target="_blank" href="http://en.cppreference.com/w/cpp/container/vector/size.html">size</a>();</div>
+<div class="line"><span class="lineno">   37</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; s; i++)</div>
+<div class="line"><span class="lineno">   38</span>    {</div>
+<div class="line"><span class="lineno">   39</span>        maxTemp+= arr[i]; <span class="comment">//add each element in the array each iteration to check every subarrays sum (maxTemp)</span></div>
+<div class="line"><span class="lineno">   40</span>        <span class="keywordflow">if</span>(maxSum &lt; maxTemp) </div>
+<div class="line"><span class="lineno">   41</span>          maxSum=maxTemp; <span class="comment">//maxSum ends up as the biggest subarray sum</span></div>
+<div class="line"><span class="lineno">   42</span>        </div>
+<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">if</span>(maxTemp&lt;0) </div>
+<div class="line"><span class="lineno">   44</span>          maxTemp=0; <span class="comment">//if the segment&#39;s sum is ever negative, set it to 0 because the biggest subarray sum will never be a negative number</span></div>
+<div class="line"><span class="lineno">   45</span>        </div>
+<div class="line"><span class="lineno">   46</span>}</div>
+<div class="line"><span class="lineno">   47</span> <span class="keywordflow">return</span> maxSum;</div>
+<div class="line"><span class="lineno">   48</span>}</div>
+<div class="ttc" id="asize_html"><div class="ttname"><a href="http://en.cppreference.com/w/cpp/container/vector/size.html">std::vector::size</a></div><div class="ttdeci">T size(T... args)</div></div>
+</div><!-- fragment --><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/d47/namespacemath_af3b18f4a55f707a81de49737a18f8c67_cgraph.svg" width="286" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
 </div>
 </div>
 <a id="afa39ec943a4836c878e1614fd89b146f" name="afa39ec943a4836c878e1614fd89b146f"></a>

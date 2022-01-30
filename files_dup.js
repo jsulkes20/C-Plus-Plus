@@ -22,5 +22,6 @@ var files_dup =
     [ "range_queries", "dir_074119ce3a874b57120c49a0cc4bb5ad.html", "dir_074119ce3a874b57120c49a0cc4bb5ad" ],
     [ "search", "dir_19b2bf9199a15c634a08b1ede1dd896a.html", "dir_19b2bf9199a15c634a08b1ede1dd896a" ],
     [ "sorting", "dir_bb1b521853a9c46347182a9d10420771.html", "dir_bb1b521853a9c46347182a9d10420771" ],
-    [ "strings", "dir_73a3cc5065b223eb41b02873c0e19f0e.html", "dir_73a3cc5065b223eb41b02873c0e19f0e" ]
+    [ "strings", "dir_73a3cc5065b223eb41b02873c0e19f0e.html", "dir_73a3cc5065b223eb41b02873c0e19f0e" ],
+    [ "kadanes.cpp", "db/d72/kadanes_8cpp.html", "db/d72/kadanes_8cpp" ]
 ];
