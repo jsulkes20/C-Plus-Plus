@@ -1,7 +1,20 @@
+/**
+ * @file
+ * @brief This program portrays a c++ implementation of the kadanes algorithm, which finds the maximum subarray sum
+ 
+ * @details
+ *  The purpose of Kadanes algorithm is to dynamically traverse through every sum of contiguous subarrays and find the largest sum 
+ *  of positive contiguous segments. First, the program goes through every positive continuous segment (possible subarrays). The variable 
+ *  maxTemp keeps track of all the different sums of possible subarrays. If the subarray sum number goes below 0, it is set back to 0 because the 
+ * biggest sum is never 0
+ *  
+ * @author [Joseph Sulkes](https://github.com/jsulkes20)
+ * @return the 
+ */
 #include<climits>
 #include<iostream>
 using namespace std;
- //The purpuse of Kadanes algorithm is to dynamically traverse through every sum of contiguous subarrays and find the largest sum of positive contiguous segments (subbarays). 
+
 int Kadanes(int arr[], int size)
 {
   //  maxTemp is used to find every positive continuous segment 
