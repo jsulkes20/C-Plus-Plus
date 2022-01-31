@@ -148,7 +148,7 @@ var NAVTREEINDEX =
 "d7/d7c/classstatistics_1_1stats__computer1.html#a27f0a03e2fd2254f1c81fe668226bd92",
 "d8/d9a/fast__fourier__transform_8cpp.html",
 "d9/df0/fast__integer__input_8cpp.html#a4e097ac8509b717bdc8ab09ecd86ae82",
-"db/d07/spiral__print_8cpp.html#acfff36db81326fb990a643ab198ee8a5",
+"db/d07/spiral__print_8cpp.html#a850d3f55e1a8d227176cdcc67352c197",
 "dc/d61/classgraph_1_1_graph.html",
 "dd/d81/namespacecaesar.html",
 "de/dd3/newton__raphson__method_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",

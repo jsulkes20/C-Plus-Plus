@@ -37,7 +37,6 @@ var namespacemath =
     [ "cylinder_surface_area", "dd/d47/namespacemath.html#ac5803413618fcfb922cb32c6db0fc864", null ],
     [ "cylinder_volume", "dd/d47/namespacemath.html#abde24398be43538c62e4a496968e60ca", null ],
     [ "integral_approx", "dd/d47/namespacemath.html#aec65db4e5c7317323227f026fe50ef11", null ],
-    [ "Kadanes", "dd/d47/namespacemath.html#aeb61228eb65f0ec1cba0a037fe35addb", null ],
     [ "largestPower", "dd/d47/namespacemath.html#afa39ec943a4836c878e1614fd89b146f", null ],
     [ "lcmSum", "dd/d47/namespacemath.html#a04065193d190d605e1f0d0d93a87e244", null ],
     [ "magic_number", "dd/d47/namespacemath.html#a8d8e81a7cd59644b311ef9adb268f5f0", null ],
