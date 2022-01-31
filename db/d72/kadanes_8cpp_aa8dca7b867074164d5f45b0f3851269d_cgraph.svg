@@ -36,7 +36,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="../../dd/d47/namespacemath.html#af3b18f4a55f707a81de49737a18f8c67" target="_top" xlink:title="kadanes algorithm (https://www.geeksforgeeks.org/largest&#45;sum&#45;contiguous&#45;subarray/)">
+<g id="a_node3"><a xlink:href="../../dd/d47/namespacemath.html#aeb61228eb65f0ec1cba0a037fe35addb" target="_top" xlink:title="kadanes algorithm (https://www.geeksforgeeks.org/largest&#45;sum&#45;contiguous&#45;subarray/)">
 <polygon fill="white" stroke="black" points="69,-0.5 69,-19.5 152,-19.5 152,-0.5 69,-0.5"/>
 <text text-anchor="middle" x="110.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">math::Kadanes</text>
 </a>
@@ -51,7 +51,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="../../db/d72/kadanes_8cpp.html#a604adcc7951d310115d8b0200b96204c" target="_top" xlink:title="function to print the vector">
+<g id="a_node5"><a xlink:href="../../db/d72/kadanes_8cpp.html#acc0adf494ab705dd86c8b7dc62fff981" target="_top" xlink:title="function to print the vector">
 <polygon fill="white" stroke="black" points="82.5,-38.5 82.5,-57.5 138.5,-57.5 138.5,-38.5 82.5,-38.5"/>
 <text text-anchor="middle" x="110.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">printVect</text>
 </a>

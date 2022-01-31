@@ -3,7 +3,7 @@ var searchData=
   ['k_0',['k',['../df/d11/midpoint__integral__method_8cpp.html#ae9f66040f8e0ba73c1c741261c22a52a',1,'numerical_methods::midpoint_rule::k()'],['../d4/d18/composite__simpson__rule_8cpp.html#a1b74d828b33760094906797042b89442',1,'numerical_methods::simpson_method::k()'],['http://en.cppreference.com/w/cpp/numeric/random/negative_binomial_distribution/params.html',0,'std::negative_binomial_distribution::k()']]],
   ['kadane_1',['kadane',['../d6/d74/namespacekadane.html',1,'']]],
   ['kadane2_2ecpp_2',['kadane2.cpp',['../db/dca/kadane2_8cpp.html',1,'']]],
-  ['kadanes_3',['Kadanes',['../dd/d47/namespacemath.html#af3b18f4a55f707a81de49737a18f8c67',1,'math']]],
+  ['kadanes_3',['Kadanes',['../dd/d47/namespacemath.html#aeb61228eb65f0ec1cba0a037fe35addb',1,'math']]],
   ['kadanes_2ecpp_4',['kadanes.cpp',['../db/d72/kadanes_8cpp.html',1,'']]],
   ['kadanes3_2ecpp_5',['kadanes3.cpp',['../de/dcd/kadanes3_8cpp.html',1,'']]],
   ['karatsuba_5falgorithm_6',['karatsuba_algorithm',['../de/d41/namespacekaratsuba__algorithm.html',1,'karatsuba_algorithm'],['../da/dd3/karatsuba__algorithm__for__fast__multiplication_8cpp.html#a7a890d2f26855ada3b9f1d43aec70a86',1,'divide_and_conquer::karatsuba_algorithm::karatsuba_algorithm()']]],

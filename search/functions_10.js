@@ -72,7 +72,7 @@ var searchData=
   ['printroot_69',['printRoot',['../dd/d29/false__position_8cpp.html#a85cb7bfb90abc898e042d624372c5345',1,'numerical_methods::false_position']]],
   ['printsol_70',['PrintSol',['../d7/d24/nqueen__print__all__solutions_8cpp.html#aebd5e11fab6dab282efccfb61beb0bd9',1,'backtracking::n_queens_all_solutions::PrintSol()'],['../da/dac/n__queens__all__solution__optimised_8cpp.html#a04090463be4942a69ea91fe7386da905',1,'backtracking::n_queens_optimized::PrintSol()']]],
   ['printsolution_71',['printSolution',['../d4/d3e/n__queens_8cpp.html#a40ae0c7fd04eb20e7f3bff13fc6a5808',1,'backtracking::n_queens::printSolution()'],['../df/d80/graph__coloringg_8cpp.html#a8c47fa37fb6eeeb781b2ec1b05af6b07',1,'backtracking::graph_coloring::printSolution()']]],
-  ['printvect_72',['printVect',['../db/d72/kadanes_8cpp.html#a604adcc7951d310115d8b0200b96204c',1,'kadanes.cpp']]],
+  ['printvect_72',['printVect',['../db/d72/kadanes_8cpp.html#acc0adf494ab705dd86c8b7dc62fff981',1,'kadanes.cpp']]],
   ['priority_5fqueue_73',['priority_queue',['http://en.cppreference.com/w/cpp/container/priority_queue/priority_queue.html',0,'std::priority_queue']]],
   ['probabilities_74',['probabilities',['http://en.cppreference.com/w/cpp/numeric/random/discrete_distribution/probabilities.html',0,'std::discrete_distribution']]],
   ['probability_5fdensity_75',['probability_density',['../da/d19/classprobability_1_1geometric__dist_1_1geometric__distribution.html#aee973db9f0435e0cb4cc70f8eb3447a1',1,'probability::geometric_dist::geometric_distribution']]],
